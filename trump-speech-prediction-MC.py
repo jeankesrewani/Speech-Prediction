@@ -42,3 +42,7 @@ while(True):
     else:
         break    
 print(' '.join(chain))
+
+def sum (a,b):
+    return a+b
+
