@@ -46,3 +46,6 @@ print(' '.join(chain))
 def sum (a,b):
     return a+b
 
+def print(a,b):
+    print(" {} + i{}".format(a,b))
+    
