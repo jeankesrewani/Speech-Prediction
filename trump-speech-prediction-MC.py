@@ -46,6 +46,5 @@ print(' '.join(chain))
 def sum (a,b):
     return a+b
 
-def print(a,b):
-    print(" {} + i{}".format(a,b))
-    
+def print_im(a,b):
+    print(" {} + i{}").format(a,b)
