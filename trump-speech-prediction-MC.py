@@ -42,5 +42,3 @@ while(True):
     else:
         break    
 print(' '.join(chain))
-
-x=5
